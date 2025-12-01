@@ -62,4 +62,3 @@ const CafesTable = () => {
 };
 
 export default CafesTable;
-
